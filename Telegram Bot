@@ -1,29 +1,29 @@
 Privacy Policy for Telegram Bot Application
-	1.	Introduction
-Welcome to Telegram Bot! This privacy policy outlines how we collect, use, and protect your personal data while using our application. By using this app, you agree to the terms outlined here.
-	2.	Information We Collect
-	•	Gmail ID: Used for authentication and communication.
-	•	Bot Token: This information remains on the device and is never stored or accessed by us.
-	3.	How We Use Your Information
-	•	To authenticate users for app access.
-	•	To facilitate Telegram bot operations by allowing users to provide bot tokens and commands locally.
-	•	To provide support and communication via Gmail.
-	4.	Data Collection and Usage
-	•	We collect Gmail IDs only for authentication purposes.
-	•	No sensitive user data or bot tokens are stored or accessed by us.
-	5.	Ads and Analytics
-	•	We use Google AdMob to display ads.
-	•	Google Analytics is integrated to track app performance and usage metrics.
-	6.	Future Features
-	•	Firebase Firestore may be integrated for enhanced functionality.
-	7.	Data Security
-	•	Gmail IDs are securely stored.
-	•	Bot tokens are never saved or accessible outside the app.
-	8.	User Responsibilities
-	•	Users must provide pre-defined bot commands for Telegram operations.
-	•	Ensure the bot token and related configurations are handled securely.
-	9.	Developer Information
-	•	This application is developed and maintained by Nimmala Sujith.
-	10.	Contact Us
+1.Introduction
+	Welcome to Telegram Bot! This privacy policy outlines how we collect, use, and protect your personal data while using our application. By using this app, you agree to the terms outlined here.
+2.Information We Collect
+	•Gmail ID: Used for authentication and communication.
+	•Bot Token: This information remains on the device and is never stored or accessed by us.
+3.How We Use Your Information
+	•To authenticate users for app access.
+	•To facilitate Telegram bot operations by allowing users to provide bot tokens and commands locally.
+	•To provide support and communication via Gmail.
+4.Data Collection and Usage
+	•We collect Gmail IDs only for authentication purposes.
+	•No sensitive user data or bot tokens are stored or accessed by us.
+5.Ads and Analytics
+	•We use Google AdMob to display ads.
+	•Google Analytics is integrated to track app performance and usage metrics.
+6.Future Features
+	•Firebase Firestore may be integrated for enhanced functionality.
+7.Data Security
+	•Gmail IDs are securely stored.
+	•Bot tokens are never saved or accessible outside the app.
+8.User Responsibilities
+	•Users must provide pre-defined bot commands for Telegram operations.
+	•Ensure the bot token and related configurations are handled securely.
+9.Developer Information
+	•This application is developed and maintained by Nimmala Sujith.
+10.Contact Us
     If you have any questions or concerns, please contact us via Gmail at sujithnimmala03@gmail.com.
 Last Updated Date - 18/11/2024
